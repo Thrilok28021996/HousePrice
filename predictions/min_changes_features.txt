@@ -1,0 +1,132 @@
+original(wasaga data)
+===============
+
+Postal_Short = "l9z"
+Style = "bungalow"
+Type = "Detached"
+Cluster = "l9z Detached"
+Cluster_Price = 816858.798639456
+Taxes = 2841.93
+Cluster_Tax = 3618.19810884354
+Bedrooms = 2
+Washrooms = 2
+Basement1 = "Finished"
+Days_on_market = 106
+Exterior1 = "Brick"
+Garage_Type = "Other"
+lat = 44.4738343
+lng = -80.0682258
+
+predicted_HPI_Price= 758025.2735994974
+
+Different changes from here
+==================================
+
+Postal_Short = "l9z"
+Style = "bungalow"
+Type = "Detached"
+Cluster = "l9z Detached"
+Cluster_Price = 816858.798639456
+Taxes = 2841.93
+Cluster_Tax = 3618.19810884354
+Bedrooms = 3
+Washrooms = 2
+Basement1 = "Finished"
+Days_on_market = 106
+Exterior1 = "Brick"
+Garage_Type = "Other"
+lat = 44.4738343
+lng = -80.0682258
+
+predicted_HPI_Price= 779958.4391944483
+
+
+Postal_Short = "l9z"
+Style = "bungalow"
+Type = "Detached"
+Cluster = "l9z Detached"
+Cluster_Price = 816858.798639456
+Taxes = 2841.93
+Cluster_Tax = 3618.19810884354
+Bedrooms = 1
+Washrooms = 2
+Basement1 = "Finished"
+Days_on_market = 106
+Exterior1 = "Brick"
+Garage_Type = "Other"
+lat = 44.4738343
+lng = -80.0682258
+predicted_HPI_Price=755859.2657970524
+
+
+
+Postal_Short = "l9z"
+Style = "bungalow"
+Type = "Detached"
+Cluster = "l9z Detached"
+Cluster_Price = 816858.798639456
+Taxes = 2841.93
+Cluster_Tax = 3618.19810884354
+Bedrooms = 2
+Washrooms = 3
+Basement1 = "Finished"
+Days_on_market = 106
+Exterior1 = "Brick"
+Garage_Type = "Other"
+lat = 44.4738343
+lng = -80.0682258
+predicted_HPI_Price=781403.5641558629
+
+
+Postal_Short = "l9z"
+Style = "bungalow"
+Type = "Detached"
+Cluster = "l9z Detached"
+Cluster_Price = 816858.798639456
+Taxes = 2841.93
+Cluster_Tax = 3618.19810884354
+Bedrooms = 2
+Washrooms = 1
+Basement1 = "Finished"
+Days_on_market = 106
+Exterior1 = "Brick"
+Garage_Type = "Other"
+lat = 44.4738343
+lng = -80.0682258
+predicted_HPI_Price=725192.1336325508
+
+
+Postal_Short = "l9z"
+Style = "bungalow"
+Type = "Detached"
+Cluster = "l9z Detached"
+Cluster_Price = 816858.798639456
+Taxes = 2841.93
+Cluster_Tax = 3618.19810884354
+Bedrooms = 2
+Washrooms = 2
+Basement1 = "Finished"
+Days_on_market = 60
+Exterior1 = "Brick"
+Garage_Type = "Other"
+lat = 44.4738343
+lng = -80.0682258
+predicted_HPI_Price=758740.0085482374
+
+
+Postal_Short = "l9z"
+Style = "bungalow"
+Type = "Detached"
+Cluster = "l9z Detached"
+Cluster_Price = 816858.798639456
+Taxes = 2841.93
+Cluster_Tax = 3618.19810884354
+Bedrooms = 2
+Washrooms = 2
+Basement1 = "Finished"
+Days_on_market = 200
+Exterior1 = "Brick"
+Garage_Type = "Other"
+lat = 44.4738343
+lng = -80.0682258
+predicted_HPI_Price=758025.2735994974
